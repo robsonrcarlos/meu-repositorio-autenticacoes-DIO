@@ -3,4 +3,5 @@ Repositório de testes de autenticações.
 
 1. Autenticação via nome de usuário e senha;
 2. Autenticação via Token de acesso pessoal;
-3.  Teste de autenticação via SSH;
+3. Teste de autenticação via SSH 1;
+4. Teste de autenticação via SSH 2;
